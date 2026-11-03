@@ -20,7 +20,7 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  IMAGE: ghcr.io/twenfys/nightcoop-hub
+  IMAGE: ghcr.io/barthofu/nightcoop-hub
 
 jobs:
   build:
